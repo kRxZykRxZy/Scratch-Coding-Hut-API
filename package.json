@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "start": "node server.js"  // or whatever entry point your app uses
+    "start": "node server.js" 
   }
 }
